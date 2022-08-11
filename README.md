@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @thedeveloper69
+- 👀 I’m interested in developing incremental\idle game
